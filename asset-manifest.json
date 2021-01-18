@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Toggle-Folder/static/css/main.5f460e0e.chunk.css",
+    "main.js": "/Toggle-Folder/static/js/main.dbb775bb.chunk.js",
+    "main.js.map": "/Toggle-Folder/static/js/main.dbb775bb.chunk.js.map",
+    "runtime-main.js": "/Toggle-Folder/static/js/runtime-main.e9085181.js",
+    "runtime-main.js.map": "/Toggle-Folder/static/js/runtime-main.e9085181.js.map",
+    "static/js/2.799d9480.chunk.js": "/Toggle-Folder/static/js/2.799d9480.chunk.js",
+    "static/js/2.799d9480.chunk.js.map": "/Toggle-Folder/static/js/2.799d9480.chunk.js.map",
+    "static/js/3.e2e704ff.chunk.js": "/Toggle-Folder/static/js/3.e2e704ff.chunk.js",
+    "static/js/3.e2e704ff.chunk.js.map": "/Toggle-Folder/static/js/3.e2e704ff.chunk.js.map",
+    "index.html": "/Toggle-Folder/index.html",
+    "static/css/main.5f460e0e.chunk.css.map": "/Toggle-Folder/static/css/main.5f460e0e.chunk.css.map",
+    "static/js/2.799d9480.chunk.js.LICENSE.txt": "/Toggle-Folder/static/js/2.799d9480.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9085181.js",
+    "static/js/2.799d9480.chunk.js",
+    "static/css/main.5f460e0e.chunk.css",
+    "static/js/main.dbb775bb.chunk.js"
+  ]
+}
